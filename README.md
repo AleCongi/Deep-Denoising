@@ -16,7 +16,7 @@ I risultati hanno dimostrato che le tecniche di deep learning adottate sono stat
 
 ## Contenuto del Repository 📁
 
-- **`Deep Denoising Benchamrking di Archietture Profonde.ipynb`**: Contiene il codice scritto da me per l'implementazione dei vari modelli di deep learning utilizzati per la rimozione del rumore.
+- **`Deep_Denoising_Benchamrking_di_Archietture_Profonde.ipynb`**: Contiene il codice scritto da me per l'implementazione dei vari modelli di deep learning utilizzati per la rimozione del rumore.
 - **`Presentazione.pdf`**: Presentazione utilizzata durante la sessione di laurea, con un riassunto dei risultati e delle tecniche adottate.
 
 ## Come Utilizzare Questo Repository 🚀
@@ -25,7 +25,7 @@ I risultati hanno dimostrato che le tecniche di deep learning adottate sono stat
     ```bash
     git clone https://github.com/AleCongi/Deep-Denoising.git
     ```
-2. Apri il file `Deep Denoising Benchamrking di Archietture Profonde.ipynb` utilizzando Colab Notebook o un ambiente compatibile per esaminare e eseguire il codice.
+2. Apri il file `Deep_Denoising_Benchamrking_di_Archietture_Profonde.ipynb` utilizzando Colab Notebook o un ambiente compatibile per esaminare e eseguire il codice.
 3. Visualizza la **Presentazione.pdf** per un riepilogo visivo dei risultati della ricerca.
 
 ## Requisiti 🖥️
